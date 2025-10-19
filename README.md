@@ -31,3 +31,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Hi From Coolify
